@@ -23,3 +23,46 @@ lllll!n/i/uU0qOUft/uv|11xUCw0Xt[:)till!l!!   Languages.Real:         English, Sp
 ^^",::"^`lU#BpUUUUJQCQmh&$$$$$$Bz^^^^`<frn   GitHub Stats --------------------------------
                                                (see the auto-updated cards below)
 ```
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luisindustry&show_icons=true&count_private=true&theme=dark" alt="stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisindustry&layout=compact&theme=dark" alt="top langs" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luisindustry&theme=dark" alt="streak" />
+</p>
+
+## 🐍 Contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Luisindustry/Luisindustry/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luisindustry/Luisindustry/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Luisindustry/Luisindustry/output/github-contribution-grid-snake.svg" />
+</picture>
+
+## 🛠️ Tech
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+## 🔗 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/luis-carlos-pérez/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:luis.perezsantana19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
